@@ -6,4 +6,4 @@ Hi everyone! My name is Maham and I have two years of experience in Cybersecurit
 
 Thanks for reading!!
 
-Edited to add: I know know HTML, CSS, and JavaScript!
+Edited to add: I know know HTML, CSS, and JavaScript!!
